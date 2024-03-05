@@ -1,9 +1,9 @@
 {
-  "name": "@natuanpcc/tea-xyz-quest",
+  "name": "@natuan.pcc/tea-xyz-quest",
   "version": "1.0.0",
   "description": "Quest for tea.xyz",
   "main": "index.js",
-  "author": "@natuanpcc",
-  "repository": "https://github.com/natuanpcc/tea-xyz-quest.git",
+  "author": "@natuan.pcc",
+  "repository": "https://github.com/natuan.pcc/tea-xyz-quest.git",
   "license": "ISC"
 }
